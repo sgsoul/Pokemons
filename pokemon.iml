@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/itmoprog/Pokemon.jar!/" />
+          <root url="jar://$USER_HOME$/itmoprog/lab2/Pokemon.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
