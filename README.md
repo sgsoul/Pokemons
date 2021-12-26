@@ -8,4 +8,4 @@
 
  
 ACHIEVEMENTS
-![jaba](https://user-images.githubusercontent.com/93263659/147415219-203dd1b1-7e05-4584-9547-0063cccb4872.jpg)
+![imgonline-com-ua-Resize-06fOIJrpc5f](https://user-images.githubusercontent.com/93263659/147415255-a29d4e2f-5f27-4727-afcf-61f0dbf21e8e.jpg)
